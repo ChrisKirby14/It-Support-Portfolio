@@ -1,8 +1,8 @@
 # Entra ID & Azure Practice Lab
 
-I am studying Computing & IT at the Open University. I created this repository to practice using Microsoft Entra ID and Azure. 
+I am currently studying Computing & IT at the Open University. I created this repository as a hands-on technical portfolio to demonstrate real-world system administration, Identity and Access Management (IAM), and Helpdesk troubleshooting.
 
-Each file below demonstrates a task on how I would handle different situations when managing user accounts. I will continue to update this repository as I learn more.
+The documentation below outlines scenarios configured in a live Microsoft 365 / Entra ID P2 tenant, showcasing user lifecycle management, role-based access control, and PowerShell automation.
 
 ### Task Directory
 * [Password Reset & MFA Setup](password-reset.md)
