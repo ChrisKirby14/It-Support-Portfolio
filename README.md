@@ -6,8 +6,9 @@ Each file below demonstrates a task on how I would handle different situations w
 
 ### Task Directory
 * [Password Reset & MFA Setup](password-reset.md)
+* [Onboarding Process](onboarding.md)
 
 ---
 
 ### Security Note
-I have redacted some sensitive information on the screenshots contained in this repository as a security best practice.
+I have redacted some sensitive information in the screenshots contained in this repository as a security best practice.
