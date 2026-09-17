@@ -1,6 +1,7 @@
 # Exercise: Add a new user to the company
 
 **Situation:** A new employee requires a managed identity in Microsoft Entra ID, including appropriate M365 licensing, group-based access, and enforced Multi-Factor Authentication (MFA) to meet corporate security baselines.
+
 **Objective:** Provision a new user account from scratch, configure identity attributes, and simulate the end-user first-run experience to verify security policies are functioning correctly.
 
 ### 1. Initialise User Profile & Temporary Credentials
